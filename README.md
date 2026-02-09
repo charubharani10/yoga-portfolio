@@ -237,4 +237,4 @@ For support or questions, please use the contact form on the website or reach ou
 
 ---
 
-**Made with 🧘‍♀️ by Shape up with Ana**
+**Made with 🧘‍♀️ by Charu**
