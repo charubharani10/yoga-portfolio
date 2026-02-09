@@ -42,8 +42,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pixelxpr/yoga-master.git
-   cd yoga-master
+   git clone https://github.com/charubharani10/yoga-portfolio.git
+   cd yoga-portfolio
    ```
 
 2. **Install dependencies**
